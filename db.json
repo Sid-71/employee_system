@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "sidharth",
+      "lastName": "dhiman",
+      "email": "tid@gmail.com",
+      "dob": "2023-11-14T18:30:00.000Z",
+      "education": "Diplolma",
+      "gender": "male",
+      "experience": "2",
+      "package": "34",
+      "company": "consultadd",
+      "id": 1
+    },
+    {
+      "firstName": "aashima",
+      "lastName": "wadhwa",
+      "email": "aashi@gmail.com",
+      "dob": "2023-11-21T18:30:00.000Z",
+      "education": "Graduate",
+      "gender": "male",
+      "experience": "1",
+      "package": "23",
+      "company": "amazon",
+      "id": 3
+    },
+    {
+      "firstName": "rahul",
+      "lastName": "k",
+      "email": "kumar@gmaill.com",
+      "dob": "2023-11-07T18:30:00.000Z",
+      "education": "PostGraduate",
+      "gender": "male",
+      "experience": "2",
+      "package": "23",
+      "company": "consultadd",
+      "id": 6
+    },
+    {
+      "firstName": "anishka",
+      "lastName": "dhiman",
+      "email": "anishhk@gmail.com",
+      "dob": "2023-11-16T18:30:00.000Z",
+      "education": "PostGraduate",
+      "gender": "female",
+      "experience": "2",
+      "package": "5",
+      "company": "consultadd",
+      "id": 7
+    }
+  ]
+}
